@@ -38,7 +38,7 @@ This will start both the front end and the back end.
 ## Tech Stack
 ReactJS, NodeJS, Express,  
 Login using Google OAuth  
-Payment using [StripAPI](https://stripe.com/docs/api)  
+Payment using [StripeAPI](https://stripe.com/docs/api)  
 Sending email surveys using [Twilio SendGrid](https://sendgrid.com/docs/api-reference/)  
 
 
